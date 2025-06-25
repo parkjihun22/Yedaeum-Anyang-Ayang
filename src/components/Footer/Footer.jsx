@@ -11,7 +11,7 @@ import InterestPopup from "../InterestPopup/InterestPopup";
 
 // FAMILY SITE 목록 예시
 const partnerSites = [
-  { name: "안성아양 영무예다음", url: "https://layershop.kr/" },
+  { name: "안성아양 영무예다음", url: "https://kikaporn.com/" },
 
 
 ];

@@ -74,7 +74,7 @@ const FloorPlan2 = () => {
           name="keywords"
           content="안성아양 영무예다음, 안성 영무예다음 , 안성아양 영무예다음모델하우스"
         />
-        <link rel="canonical" href="https://layershop.kr/FloorPlan/59B" />
+        <link rel="canonical" href="https://kikaporn.com/FloorPlan/59B" />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
         <meta
@@ -87,11 +87,11 @@ const FloorPlan2 = () => {
         />
         <meta
           property="og:image"
-          content="https://layershop.kr/Main1.png"
+          content="https://kikaporn.com/Main1.png"
         />
         <meta
           property="og:url"
-          content="https://layershop.kr/FloorPlan/59B"
+          content="https://kikaporn.com/FloorPlan/59B"
         />
         <meta property="og:site_name" content="안성아양 영무예다음" />
 
@@ -107,11 +107,11 @@ const FloorPlan2 = () => {
         />
         <meta
           name="twitter:image"
-          content="https://layershop.kr/Main1.png"
+          content="https://kikaporn.com/Main1.png"
         />
         <meta
           name="twitter:url"
-          content="https://layershop.kr/FloorPlan/59B"
+          content="https://kikaporn.com/FloorPlan/59B"
         />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
@@ -122,7 +122,7 @@ const FloorPlan2 = () => {
 				"@type": "WebPage",
 				"name": "안성아양 영무예다음 - 84타입 평면도",
 				"description": "84타입의평면 안내 페이지는안성아양 영무예다음의 각 아파트 평면도를 제공합니다. 고객들이 아파트의 구조를 정확히 이해하고, 자신의 생활 스타일에 맞는 평형을 선택할 수 있도록 돕습니다. 다양한 평면 설계를 확인하고 자신에게 맞는 최적의 공간을 찾아보세요.",
-				"url": "https://layershop.kr/FloorPlan/59B"
+				"url": "https://kikaporn.com/FloorPlan/59B"
 						}
 						`}
         </script>
